@@ -134,7 +134,7 @@ static void main_window_load(Window *window) {
 	text_layer_set_text_alignment(s_date_layer, GTextAlignmentCenter);
 	layer_add_child(window_get_root_layer(window),text_layer_get_layer(s_date_layer));
 
-  s_message_layer = text_layer_create(GRect(0, 74, 144,70));
+  s_message_layer = text_layer_create(GRect(0, 74, 144,94));
   text_layer_set_text(s_message_layer, "No Message...");
   text_layer_set_background_color(s_message_layer, GColorBlack);
   text_layer_set_text_color(s_message_layer, GColorClear);
