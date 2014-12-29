@@ -1,0 +1,17 @@
+{
+  "uuid": "3f7e215c-b764-44f8-8967-66b4b2b2c7b1",
+  "shortName": "PebbleMessage",
+  "longName": "PebbleMessage",
+  "companyName": "Darshil Chanpura",
+  "versionCode": 1,
+  "versionLabel": "0.1",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
